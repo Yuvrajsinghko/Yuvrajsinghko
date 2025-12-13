@@ -1,24 +1,40 @@
-## Hi 👋 I’m Yuvraj Singh
+<h1 align="center">Hi 👋 I’m Yuvraj Singh</h1>
+<h3 align="center">Frontend Developer • React • Next.js • Modern UI</h3>
 
-🚀 Frontend Developer focused on building modern, responsive, and animated web experiences  
-💡 I enjoy working across the stack, especially integrating clean UIs with reliable backend APIs
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yuvrajsinghko&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+### 🚀 About Me
+- 🚀 Frontend Developer focused on modern, responsive, and animated web experiences  
+- 💡 Enjoy working across the stack and integrating clean UIs with reliable backend APIs  
 
 ---
 
 ### 🛠 Tech Stack
 
-#### Frontend
-- JavaScript (ES6+), TypeScript  
-- React, Next.js  
-- Tailwind CSS, CSS3  
-- GSAP, Framer Motion  
+#### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,css,html" />
+</p>
 
-#### Backend (Basic)
-- Python  
-- Flask (REST APIs)
+#### 🎬 Animations
+<p>
+  <img src="https://skillicons.dev/icons?i=gsap" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" />
+</p>
 
-#### Tools
-- Git, GitHub, Vite  
+#### 🧩 Backend (Basic)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask" />
+</p>
+
+#### ⚙️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vite" />
+</p>
 
 ---
 
@@ -28,7 +44,7 @@
 - 🌱 **EcoTracker** – Flask-based backend API designed to support a frontend application  
 - 🧠 **JavaScript Mini Projects** – Strengthening core logic and fundamentals  
 
-👉 Check pinned repositories below ⬇️
+⬇️ Check pinned repositories below ⬇️
 
 ---
 
@@ -47,5 +63,11 @@
 ---
 
 ### 📫 Connect With Me
-- GitHub: https://github.com/Yuvrajsinghko  
-- LinkedIn:www.linkedin.com/in/yuvraj-singh-kot07
+<p>
+  <a href="https://github.com/Yuvrajsinghko">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/yuvraj-singh-kot07">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>

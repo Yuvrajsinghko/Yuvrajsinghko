@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌑 Yuvraj Singh  
+#  Yuvraj Singh Kot  
 ### Frontend Developer • React • Next.js • UI Animations
 
 </div>

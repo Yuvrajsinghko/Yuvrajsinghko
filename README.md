@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Yuvraj Singh Kot
+# 🌑 Yuvraj Singh  
 ### Frontend Developer • React • Next.js • UI Animations
 
 </div>
@@ -10,7 +10,7 @@
 <div align="center">
 
 Building **modern, responsive, and interactive web experiences**  
-with a strong focus on **UI design, animations, and clean frontend architecture**.
+with a focus on **clean UI, animations, and frontend architecture**.
 
 </div>
 
@@ -20,10 +20,9 @@ with a strong focus on **UI design, animations, and clean frontend architecture*
 
 - Frontend Developer (Fresher) specializing in **React & Next.js**
 - Strong foundation in **JavaScript (ES6+)**
-- Experience with **state management using Zustand**
-- Passionate about **UI animations & interactions (GSAP)**
-- Projects are **fully GitHub-backed**
-- Focused on **clean UI, performance, and user experience**
+- Experience with **Zustand** for state management
+- Focused on **UI animations & interactions (GSAP)**
+- All work backed by **real GitHub projects**
 
 ---
 
@@ -52,29 +51,10 @@ with a strong focus on **UI design, animations, and clean frontend architecture*
 
 ## 📌 Featured Projects
 
-### 🎬 Movie App (React)
-- React-based movie application
-- Backend integration using **Appwrite**
-- Clean state handling with **react-use**
-- Responsive UI with **Tailwind CSS**
-
----
-
-### 💻 MacBook Landing Page
-- Product-style landing page built with **React**
-- Lightweight global state using **Zustand**
-- Focus on layout, spacing, and clean UI
-
----
-
-### 🎨 Animated & UI Replica Projects
-- **Sidcup Golf Clone**
-- **Range Rover Replica**
-- **Ochi Design Website**
-- **Parallax Boom**
-
-Built using **HTML, CSS, JavaScript, React, and GSAP** to practice  
-animations, layout precision, and interactive UI patterns.
+- 🎬 **Movie App** – React app with Appwrite backend integration  
+- 💻 **MacBook Landing Page** – React + Zustand product-style UI  
+- 🎨 **Animated & UI Clones** – GSAP-based interactive websites  
+  *(Sidcup Golf, Range Rover, Ochi Design, Parallax Boom)*
 
 👉 Check **pinned repositories** below 👇
 
@@ -91,14 +71,6 @@ animations, layout precision, and interactive UI patterns.
 
 ---
 
-## 🌱 Currently Exploring
-- Advanced React & Next.js patterns
-- Performance-friendly UI animations
-- Creative & interactive web experiences
-- 3D & motion-driven interfaces
-
----
-
 ## 🔗 Connect With Me
 
 - **GitHub:** https://github.com/Yuvrajsinghko  
@@ -108,8 +80,6 @@ animations, layout precision, and interactive UI patterns.
 
 <div align="center">
 
-> *“I enjoy recreating premium web experiences to deeply understand UI, animations, and user interaction.”*
-
-⭐ Star repositories you like — it really helps!
+> *Focused on building premium UI experiences with modern frontend tools.*
 
 </div>

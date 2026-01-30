@@ -72,8 +72,7 @@ with a focus on **clean UI, animations, and frontend architecture**.
 ---
 
 ## 🔗 Connect With Me
-
-- **GitHub:** https://github.com/Yuvrajsinghko  
+ 
 - **LinkedIn:** https://www.linkedin.com/in/yuvraj-singh-kot  
 
 ---

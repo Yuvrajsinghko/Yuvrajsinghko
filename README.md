@@ -64,8 +64,9 @@ with a focus on **clean UI, animations, and frontend architecture**.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Yuvrajsinghko&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajsinghko&layout=compact&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=Yuvrajsinghko&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajsinghko&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 </div>
 

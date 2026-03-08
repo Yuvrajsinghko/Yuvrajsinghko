@@ -29,7 +29,7 @@ with a focus on **clean UI, animations, and frontend architecture**.
 
 ### Frontend
 
-<div align="center">
+<div align="left">
 
 <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=nextdotjs"/>
@@ -41,7 +41,7 @@ with a focus on **clean UI, animations, and frontend architecture**.
 
 ### UI & Animations
 
-<div align="center">
+<div align="left">
 
 <img src="https://img.shields.io/badge/GSAP-020617?style=for-the-badge&logo=greensock"/>
 <img src="https://img.shields.io/badge/Framer_Motion-020617?style=for-the-badge&logo=framer"/>
@@ -51,7 +51,7 @@ with a focus on **clean UI, animations, and frontend architecture**.
 
 ### State & Backend Services
 
-<div align="center">
+<div align="left">
 
 <img src="https://img.shields.io/badge/Zustand-020617?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Redux_Toolkit-020617?style=for-the-badge&logo=redux"/>
@@ -63,7 +63,7 @@ with a focus on **clean UI, animations, and frontend architecture**.
 
 ### AI
 
-<div align="center">
+<div align="left">
 
 <img src="https://img.shields.io/badge/Puter_AI-020617?style=for-the-badge&logo=openai"/>
 
@@ -71,7 +71,7 @@ with a focus on **clean UI, animations, and frontend architecture**.
 
 ### Deployment
 
-<div align="center">
+<div align="left">
 
 <img src="https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel"/>
 <img src="https://img.shields.io/badge/Netlify-020617?style=for-the-badge&logo=netlify"/>
@@ -80,7 +80,7 @@ with a focus on **clean UI, animations, and frontend architecture**.
 
 ### Tools
 
-<div align="center">
+<div align="left">
 
 <img src="https://img.shields.io/badge/Vite-020617?style=for-the-badge&logo=vite"/>
 <img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git"/>

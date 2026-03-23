@@ -132,25 +132,34 @@ React • Three.js • GSAP • Tailwind CSS • Vite
 
 ---
 
-### 🎨 Animated & Interactive UI Experiences
+### 🍸 The Velvet Bar – Premium Interactive Website
 
-A collection of interactive UI projects focused on **modern animation-driven web design**.
+A visually rich and immersive bar-themed website focused on **luxury UI design, smooth animations, and storytelling-based user experience**.
 
-These projects explore **scroll-based animations, parallax effects and smooth UI transitions** inspired by modern product websites.
+Built to replicate a **premium nightlife brand presence** with modern web interactions and fluid transitions.
 
-**Technologies Used**
+**Key Features**
 
-React • GSAP • ScrollTrigger • Tailwind CSS • Modern CSS animations
+• Smooth scroll-based animations and transitions  
+• High-end dark themed UI with premium feel  
+• Interactive sections with engaging motion design  
+• Responsive design across devices  
+• Focus on storytelling through UI/UX  
+
+**Tech Stack**
+
+React • GSAP • ScrollTrigger • Tailwind CSS • Vite
 
 <div align="center">
+<a href="https://the-velvet-bar.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-020617?style=for-the-badge&logo=vercel"/>
+</a>
 
-<a href="https://yuvrajsinghko.github.io/Sidcup-Golf-clone/">
-<img src="https://img.shields.io/badge/Live%20Demo-Sidcup%20Golf%20Clone-020617?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Yuvrajsinghko/The-Velvet-Bar">
+<img src="https://img.shields.io/badge/GitHub-Repository-020617?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
-
----
 
 # 📊 GitHub Stats
 

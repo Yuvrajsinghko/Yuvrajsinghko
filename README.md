@@ -105,11 +105,6 @@ React • TypeScript • Vite • Tailwind CSS • Puter.js
 <a href="https://roomify-yuv.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-020617?style=for-the-badge&logo=vercel"/>
 </a>
-
-<a href="https://github.com/Yuvrajsinghko/Roomify">
-<img src="https://img.shields.io/badge/GitHub-Repository-020617?style=for-the-badge&logo=github"/>
-</a>
-
 </div>
 
 ---

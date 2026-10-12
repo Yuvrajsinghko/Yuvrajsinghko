@@ -201,7 +201,8 @@ React • GSAP • ScrollTrigger • Tailwind CSS • Vite
 
 <div align="center">
 
-<a href="www.linkedin.com/in/yuvraj-singh-kot07">
+<a href="https://www.linkedin.com/in/yuvraj-singh-kot07/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn"/>
 </a>
 
 </div>

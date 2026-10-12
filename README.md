@@ -201,7 +201,7 @@ React • GSAP • ScrollTrigger • Tailwind CSS • Vite
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/yuvraj-singh-kot">
+<a href="www.linkedin.com/in/yuvraj-singh-kot07">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-020617?style=for-the-badge&logo=linkedin"/>
 </a>
 
